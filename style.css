@@ -1,4 +1,8 @@
-    h1 {
+@font-face {
+  font-family: "dm";
+  src: url("determinationmonoweb-webfont.woff2");
+}
+h1 {
   font-size: 150px;
 }
     h2 {
@@ -17,4 +21,3 @@
   width: auto;
   height: 500px;
 }
-
